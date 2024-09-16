@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Andrew! Most people call me ALionKingFan.
-- 👀 I’m interested in video games, coding languages like Python, STEM activities, musical instruments, and sports.
-- 🌱 I’m currently learning piano, cello, art, math, and fencing.
-- 💞️ I’m looking to collaborate on coding and math.
-- 📫 How to reach me: discord A Salty Bacon#9391 or email andrewpspspro836@gmail.com.
+
